@@ -1,4 +1,4 @@
-![image](https://github.com/MaciejBascik/React-to-do/assets/96304157/8d6c7282-bd29-4fa7-a42f-222028ba6ffd)# Simple react To Do App created by Maciej Baścik
+# Simple react To Do App created by Maciej Baścik
 
 # React + Vite
 
@@ -13,4 +13,4 @@ Currently, two official plugins are available:
 
 [https://maciejbascik.github.io/ToDosApp/](https://maciejbascik.github.io/React-to-do/)https://maciejbascik.github.io/React-to-do/
 
-![alt text](file:///C:/Users/macia/OneDrive/Pulpit/img.png)
+![image](https://github.com/MaciejBascik/React-to-do/assets/96304157/8d6c7282-bd29-4fa7-a42f-222028ba6ffd)
