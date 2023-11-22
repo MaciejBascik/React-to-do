@@ -1,3 +1,5 @@
+# Simple react To Do App created by Maciej Baścik
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
