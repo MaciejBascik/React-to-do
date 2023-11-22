@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 # Play around with app
 
-[https://maciejbascik.github.io/ToDosApp/](https://maciejbascik.github.io/React-to-do/)https://maciejbascik.github.io/React-to-do/
+https://maciejbascik.github.io/React-to-do/
 
 ![image](https://github.com/MaciejBascik/React-to-do/assets/96304157/8d6c7282-bd29-4fa7-a42f-222028ba6ffd)
 ![Zrzut ekranu 2023-11-22 110406](https://github.com/MaciejBascik/React-to-do/assets/96304157/36d661f7-a217-43d4-88f0-030ca22f3fe5)
