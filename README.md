@@ -14,3 +14,4 @@ Currently, two official plugins are available:
 [https://maciejbascik.github.io/ToDosApp/](https://maciejbascik.github.io/React-to-do/)https://maciejbascik.github.io/React-to-do/
 
 ![image](https://github.com/MaciejBascik/React-to-do/assets/96304157/8d6c7282-bd29-4fa7-a42f-222028ba6ffd)
+![image](file:///C:/Users/macia/OneDrive/Pulpit/Zrzut%20ekranu%202023-11-22%20110406.png)
